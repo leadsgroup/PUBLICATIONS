@@ -1,0 +1,151 @@
+JOURNALS 
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M., and Alonso, J.J., “Forecasting the Operational Lifetime of Battery-Powered Electric Aircraft”. Journal of 
+Aircraft, (2022), pp.1-9. 
+@article\{clarke2023forecasting,\newline
+  title=\{Forecasting the Operational Lifetime of Battery-Powered Electric Aircraft\},\newline
+  author=\{Clarke, Matthew A and Alonso, Juan J\},\newline
+  journal=\{Journal of Aircraft\},\newline
+  volume=\{60\},\newline
+  number=\{1\},\newline
+  pages=\{47--55\},\newline
+  year=\{2023\},\newline
+  publisher=\{American Institute of Aeronautics and Astronautics\}\newline
+\}
+ 
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M., and Alonso. J. J., "Lithium–Ion Battery Modeling for Aerospace Applications" Journal of Aircraft, Vol. 58, 
+No. 6 (2021), pp. 1323-1335
+
+
+@article\{clarke2021lithium,\newline
+  title=\{Lithium--ion battery modeling for aerospace applications\},\newline
+  author=\{Clarke, Matthew and Alonso, Juan J\},\newline
+  journal=\{Journal of Aircraft\},\newline
+  volume=\{58\},\newline
+  number=\{6\},\newline
+  pages=\{1323--1335\},\newline
+  year=\{2021\},\newline
+  publisher=\{American Institute of Aeronautics and Astronautics\}\newline
+\}
+
+
+####################################################################################################################################
+
+CONFERENCE PAPERS 
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M., “Multi-Rotor Aircraft Noise on Urban Topography” submitted to AIAA Aviation 2023 Forum, San Diego, CA Jan. 2023
+
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M., Botero E.“Aeroacoustic Optimization of VTOL Rotor Blades” submitted to AIAA SciTech Forum, Washington, DC Jan. 2023
+@inproceedings\{clarke2023aeroacoustic,\newline
+  title=\{Aeroacoustic Optimization of VTOL Rotor Blades\},\newline
+  author=\{Clarke, Matthew A and Botero, Emilio\},\newline
+  booktitle=\{AIAA SCITECH 2023 Forum\},\newline
+  pages=\{0209\},\newline
+  year=\{2023\}\newline
+\}
+
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Botero E., Clarke, M., Erhard R., Smart J., Alonso J.J., Blaufox A., “Aerodynamic Verification and Validation of 
+SUAVE” AIAA SciTech Forum, San Diego, CA, Jan. 2022. AIAA 2022-1929
+
+@inproceedings\{botero2022aerodynamic,\newline
+  title=\{Aerodynamic Verification and Validation of SUAVE\},\newline
+  author=\{Botero, Emilio M and Clarke, Matthew A and Erhard, Racheal M and Smart, Jordan T and Alonso, Juan J and Blaufox, Aaron\},\newline
+  booktitle=\{AIAA SciTech 2022 Forum\},\newline
+  pages=\{1929\},\newline
+  year=\{2022\}\newline
+\}
+
+# ----------------------------------------------------------------------------------------------------------------------------
+
+Clarke, M. and Alonso J.J., “Forecasting the Operational Lifetime of Electric Aircraft Through Battery Degradation 
+Modeling” AIAA SciTech Forum, San Diego, CA, Jan. 2022. AIAA 2022-1996
+
+@inproceedings\{clarke2022forecasting,\newline
+  title=\{Forecasting the Operational Lifetime of Electric Aircraft Through Battery Degradation Modeling\},\newline
+  author=\{Clarke, Matthew A and Alonso, Juan J\},\newline
+  booktitle=\{AIAA SciTech 2022 Forum\},\newline
+  pages=\{1996\},\newline
+  year=\{2022\}\newline
+\}
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M. and Alonso J.J., “Evaluating the Performance and Acoustic Footprint of Aircraft for Regional and Urban Air 
+Mobility” AIAA Aviation Forum, Washington, DC, Jun. 2021 AIAA 2021-3205
+@inproceedings\{clarke2021evaluating,\newline
+  title=\{Evaluating the Performance and Acoustic Footprint of Aircraft for Regional and Urban Air Mobility\},\newline
+  author=\{Clarke, Matthew A and Alonso, Juan\},\newline
+  booktitle=\{AIAA Aviation 2021 Forum\},\newline
+  pages=\{3205\},\newline
+  year=\{2021\}\newline
+\}
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M., Erhard, R., Smart, J. and Alonso J.J., “Aerodynamic Optimization of Wing-Mounted Propeller Configurations for
+Distributed Electric Propulsion Architectures” AIAA Aviation Forum, Washington, DC, Jun. 2021 AIAA 2021-2471
+
+@inproceedings\{clarke2021aerodynamic,\newline
+  title=\{Aerodynamic Optimization of Wing-Mounted Propeller Configurations for Distributed Electric Propulsion Architectures\},\newline
+  author=\{Clarke, Matthew A and Erhard, Racheal M and Smart, Jordan T and Alonso, Juan\},\newline
+  booktitle=\{AIAA Aviation 2021 Forum\},\newline
+  pages=\{2471\},\newline
+  year=\{2021\}\newline
+\}
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Erhard R., Clarke, M. and Alonso J.J., “A Low-Cost Aero-Propulsive Analysis of Distributed Electric Propulsion Aircraft” 
+AIAA SciTech Forum, Jan. 2021. AIAA 2021-1200
+
+@inproceedings\{erhard2021low,\newline
+  title=\{A low-cost aero-propulsive analysis of distributed electric propulsion aircraft\},\newline
+  author=\{Erhard, Racheal M and Clarke, Matthew A and Alonso, Juan J\},\newline
+  booktitle=\{AIAA Scitech 2021 Forum\},\newline
+  pages=\{1200\},\newline
+  year=\{2021\}\newline
+\}
+
+
+# ----------------------------------------------------------------------------------------------------------------------------
+
+Vegh J. M., Botero E., Clarke M., Smart J., and Alonso J.J., “Current Capabilities and Challenges of NDARC and SUAVE 
+for eVTOL Aircraft Design and Analysis” AIAA Propulsion and Energy Forum, Indianapolis, IN, August 2019. AIAA 2019-4505  
+
+@inproceedings\{vegh2019current,\newline
+  title=\{Current capabilities and challenges of NDARC and SUAVE for eVTOL aircraft design and analysis\},\newline
+  author=\{Vegh, J Michael and Botero, Emilio and Clark, Matthew and Smart, Jordan and Alonso, Juan J\},\newline
+  booktitle=\{2019 AIAA/IEEE Electric Aircraft Technologies Symposium (EATS)//\},\newline\newline\newline
+  pages=\{1--19\},\newline
+  year=\{2019\},\newline
+  organization=\{IEEE\}\newline
+\}
+
+# ----------------------------------------------------------------------------------------------------------------------------
+Clarke, M., Smart, J., Botero, E., Maier, W. and Alonso, J. J., “Strategies for Posing a Well-Defined Problem for 
+Urban Air Mobility Vehicles” AIAA SciTech Forum, San Diego, CA, Jan 2018. AIAA 2019-0818
+
+@inproceedings\{clarke2019strategies,\newline
+  title=\{Strategies for posing a well-defined problem for urban air mobility vehicles\},\newline
+  author=\{Clarke, Matthew and Smart, Jordan and Botero, Emilio M and Maier, Walter and Alonso, Juan J\},\newline
+  booktitle=\{AIAA Scitech 2019 Forum\},\newline
+  pages=\{0818\},\newline
+  year=\{2019\}\newline
+\}
+
+# ----------------------------------------------------------------------------------------------------------------------------
+MacDonald, T., Clarke, M., Botero, E., Vegh, J. M. and Alonso, J. J., “SUAVE: An Open-Source Environment for Multi-Fidelity 
+Vehicle Optimization” AIAA Aviation Forum, Denver, CO, June 2017. AIAA 2017-4437
+
+@inproceedings\{macdonald2017suave,\newline
+  title=\{SUAVE: an open-source environment enabling multi-fidelity vehicle optimization\},\newline
+  author=\{MacDonald, Timothy and Clarke, Matthew and Botero, Emilio M and Vegh, Julius M and Alonso, Juan J\},\newline
+  booktitle=\{18th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference\},\newline
+  pages=\{4437\},\newline
+  year=\{2017\}\newline
+\}
+
+
